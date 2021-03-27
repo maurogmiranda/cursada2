@@ -1,0 +1,9 @@
+En esta clase, tanto en la clase sincronica como en playground vimos la terminal (programa que esta presente en todos los sistemas operativos que podemos darle ordenes al sistema), y tambien
+vimos distintos comandos que podemos usar en la terminal tal como:
+ls: lista los elementos de una carpeta
+mkdir: crea una nueva carpeta sobre la carpeta que estamos ubicados
+cd: podemos acceder a distintas carpetas
+mv: podemos renombra o mover archivos
+rm: borra archivos
+touch: crea archivos
+clear : borra todo lo antes escrito sobre la terminal

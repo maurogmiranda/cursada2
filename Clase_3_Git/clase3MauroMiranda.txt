@@ -1,0 +1,7 @@
+en esta clase vimos, tanto como en la clase sincronica como en el playground, la herramienta git. esta herramienta guarda los archivos 
+y sus modificaciones para poder volver a alguna modificacion por si hace falta.
+los pasos a seguir desde la consola y ubicado sobre la carpeta en la cual quiere iniciar un repositorio local es
+git init  (crea el repositorio)
+git add . (agrega los archivos al repositorio, si se quiere agregar 1 solo, en vez de poner un punto se pone el nombre del archivo)
+git status (vemos los archivos que estan en el repositorio y los que no)
+git commit -m"" (creamos un commit con los archivos que esten en el repositorio, esto nos habilitara a poder acceder a ellos despues de una modificacion)

@@ -1,0 +1,3 @@
+En esta clase tuvimos la bienvenida a la materia, vimos los distintos componentes de las computadoras, Hardware y software, el hardware son los
+componentes fisicos de la comptadora, mientras tanto el software son los programas que la computadora lleva acabo para funcionar.
+En el playground tuvimos una introduccion a la historia de la informatica.
