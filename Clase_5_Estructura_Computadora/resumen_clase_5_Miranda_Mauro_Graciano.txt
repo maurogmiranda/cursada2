@@ -1,0 +1,2 @@
+en esta clase vimos las distintas partes de una computadora y nos centramos en el procesador, "el cerebro" de una computadora , vimos sus caracteristicas
+como la frecuencia, cantidad de nucleos, subprocesos y su memoria cache.
